@@ -14,3 +14,4 @@ https://github.com/prankurverma/resume
 https://github.com/adityaketkar/circle-packing-personal-homepage
 https://github.com/alphaolomi/alphaolomi.com
 https://github.com/ffraenz/identity-page
+https://github.com/caressofsteel/hugo-story
