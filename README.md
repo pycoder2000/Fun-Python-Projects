@@ -3,7 +3,6 @@
 
 Nice Websites
 https://github.com/mschinagaines/mschinagaines.github.io
-https://github.com/Roshankrsoni/Roshankrsoni.github.io
 https://github.com/prankurverma/resume
 https://github.com/adityaketkar/circle-packing-personal-homepage
 https://www.visualcv.com/
